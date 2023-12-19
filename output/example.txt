@@ -1,0 +1,2 @@
+Hello, this is a demonstration of file primitives in C!
+You can use fprintf to write formatted data to a file.
